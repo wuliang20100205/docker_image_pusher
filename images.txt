@@ -1,1 +1,2 @@
 whyour/qinglong:latest
+mysql
