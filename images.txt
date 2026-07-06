@@ -14,3 +14,4 @@ docker.n8n.io/n8nio/n8n:latest
 soulter/astrbot:latest
 mlikiowa/napcat-docker:latest
 openlistteam/openlist:latest
+openlistteam/openlist:latest-lite
