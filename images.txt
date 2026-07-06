@@ -15,3 +15,4 @@ soulter/astrbot:latest
 mlikiowa/napcat-docker:latest
 openlistteam/openlist:latest
 openlistteam/openlist:latest-lite
+dannicool/docker-wechatbot-webhook:latest
